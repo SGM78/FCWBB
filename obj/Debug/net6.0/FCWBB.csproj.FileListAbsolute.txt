@@ -1,0 +1,15 @@
+D:\GeekBrains\CSharp\control_work\FCWBB\bin\Debug\net6.0\FCWBB.exe
+D:\GeekBrains\CSharp\control_work\FCWBB\bin\Debug\net6.0\FCWBB.deps.json
+D:\GeekBrains\CSharp\control_work\FCWBB\bin\Debug\net6.0\FCWBB.runtimeconfig.json
+D:\GeekBrains\CSharp\control_work\FCWBB\bin\Debug\net6.0\FCWBB.dll
+D:\GeekBrains\CSharp\control_work\FCWBB\bin\Debug\net6.0\FCWBB.pdb
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.csproj.AssemblyReference.cache
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.AssemblyInfoInputs.cache
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.AssemblyInfo.cs
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.csproj.CoreCompileInputs.cache
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.dll
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\refint\FCWBB.dll
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.pdb
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\FCWBB.genruntimeconfig.cache
+D:\GeekBrains\CSharp\control_work\FCWBB\obj\Debug\net6.0\ref\FCWBB.dll
